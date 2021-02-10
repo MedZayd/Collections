@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dom-2.3.0-jaxb-1.0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Collectors/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/opencsv-5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/commons-lang3-3.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

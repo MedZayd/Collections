@@ -1,0 +1,374 @@
+[
+  {
+    "categories": [
+      {
+        "qualities": [
+          {
+            "id": 1582,
+            "name": "NPS 12 46 6S 0.5B2O3 BRAZIL",
+            "nominated": 4000.0,
+            "confirmed": 30030.0,
+            "underDiscussion": 625.0
+          }
+        ],
+        "id": 1584,
+        "name": "Engrais souffr?",
+        "nominated": 4000.0,
+        "confirmed": 30030.0,
+        "underDiscussion": 625.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 48,
+            "name": "DAP Aminé",
+            "forecastAdHoc": 800.0
+          },
+          {
+            "id": 2424,
+            "name": "DAP Standard",
+            "loaded": 2500.0,
+            "confirmed": 173318.0,
+            "underDiscussion": 38663.96,
+            "forecastAdHoc": 2044229.55
+          },
+          {
+            "id": 1960,
+            "name": "DAP SPECIAL DARK",
+            "underDiscussion": 3270.54
+          },
+          {
+            "id": 24152,
+            "name": "DAP SPECIAL AMINE",
+            "underDiscussion": 2500.0
+          },
+          {
+            "id": 94,
+            "name": "DAP EURO",
+            "forecastAdHoc": 850.0
+          },
+          {
+            "id": 63,
+            "name": "DAP BRAZIL",
+            "confirmed": 60620.0,
+            "underDiscussion": 1600.0,
+            "forecastAdHoc": 300.0
+          }
+        ],
+        "id": 50,
+        "name": "DAP",
+        "loaded": 2500.0,
+        "confirmed": 233938.0,
+        "underDiscussion": 46034.5,
+        "forecastAdHoc": 2046179.55
+      },
+      {
+        "qualities": [
+          {
+            "id": 149,
+            "name": "TSP",
+            "anchored": 125.0,
+            "forecastAdHoc": 775.0
+          },
+          {
+            "id": 2041,
+            "name": "TSP BRAZIL",
+            "loaded": 600.0,
+            "confirmed": 10999.0,
+            "underDiscussion": 100155.0,
+            "forecastAdHoc": 1600.0
+          },
+          {
+            "id": 159,
+            "name": "TSP EURO",
+            "underDiscussion": 850.0,
+            "forecastAdHoc": 1000.0
+          }
+        ],
+        "id": 150,
+        "name": "TSP",
+        "loaded": 600.0,
+        "anchored": 125.0,
+        "confirmed": 10999.0,
+        "underDiscussion": 101005.0,
+        "forecastAdHoc": 3375.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 119,
+            "name": "NPK  15 15 15 6S 1B2O3",
+            "anchored": 150.0,
+            "forecastAdHoc": 800.0
+          }
+        ],
+        "id": 120,
+        "name": "NPK",
+        "anchored": 150.0,
+        "forecastAdHoc": 800.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 1968,
+            "name": "MAP 11 52 USA",
+            "underDiscussion": 85000.0
+          },
+          {
+            "id": 103,
+            "name": "MAP 11 54 NE",
+            "anchored": 450.0,
+            "nominated": 200.0,
+            "confirmed": 300.0,
+            "underDiscussion": 500.0
+          },
+          {
+            "id": 1583,
+            "name": "MAP 11 52 BRAZIL",
+            "loaded": 100.0,
+            "nominated": 26300.0,
+            "confirmed": 500.0,
+            "underDiscussion": 14900.0,
+            "forecastAdHoc": 41000.0
+          }
+        ],
+        "id": 104,
+        "name": "MAP",
+        "loaded": 100.0,
+        "anchored": 450.0,
+        "nominated": 26500.0,
+        "confirmed": 800.0,
+        "underDiscussion": 100400.0,
+        "forecastAdHoc": 41000.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 1886,
+            "name": "ASP 19 38 6S Brazil",
+            "underDiscussion": 68157.0,
+            "forecastAdHoc": 68933.0
+          }
+        ],
+        "id": 138,
+        "name": "NPS",
+        "underDiscussion": 68157.0,
+        "forecastAdHoc": 68933.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 3420,
+            "name": "ASP 19-38-7S STD",
+            "nominated": 20000.0,
+            "forecastAdHoc": 869.0
+          },
+          {
+            "id": 141,
+            "name": "NPS 20-20-0",
+            "forecastAdHoc": 700.0
+          },
+          {
+            "id": 510,
+            "name": "ASP 19 38 6S EURO",
+            "forecastAdHoc": 96.0
+          }
+        ],
+        "id": 142,
+        "name": "Engrais souffré",
+        "nominated": 20000.0,
+        "forecastAdHoc": 1665.0
+      }
+    ],
+    "id": 49,
+    "name": "FERTILIZERS",
+    "loaded": 3200.0,
+    "anchored": 725.0,
+    "nominated": 50500.0,
+    "confirmed": 275767.0,
+    "underDiscussion": 316221.5,
+    "forecastAdHoc": 2161952.55
+  },
+  {
+    "categories": [
+      {
+        "qualities": [
+          {
+            "id": 1,
+            "name": "Acide 54% Bunge",
+            "anchored": 214.0,
+            "confirmed": 26.75,
+            "underDiscussion": 1765.5,
+            "forecastAdHoc": 2509545.37
+          },
+          {
+            "id": 37,
+            "name": "Acide de retour",
+            "forecastAdHoc": 214.0
+          },
+          {
+            "id": 487,
+            "name": "ACP Désulfaté",
+            "confirmed": 34585.08,
+            "underDiscussion": 541.42,
+            "forecastAdHoc": 54564.59
+          },
+          {
+            "id": 791,
+            "name": "ACP BG Prayon",
+            "scheduled": 428.0,
+            "confirmed": 19561.21,
+            "underDiscussion": 53119.08,
+            "forecastAdHoc": 4.978998799E7
+          },
+          {
+            "id": 24,
+            "name": "ACP Standard",
+            "confirmed": 448864.87,
+            "underDiscussion": 47935.47,
+            "forecastAdHoc": 1143.12
+          }
+        ],
+        "id": 3,
+        "name": "Phosphoric Acid",
+        "anchored": 214.0,
+        "scheduled": 428.0,
+        "confirmed": 503037.91,
+        "underDiscussion": 103361.47,
+        "forecastAdHoc": 5.235545507E7
+      },
+      {
+        "qualities": [
+          {
+            "id": 249,
+            "name": "ACP Feed grade",
+            "loaded": 1859.66,
+            "nominated": 52372.15,
+            "scheduled": 3820.85,
+            "confirmed": 581318.51,
+            "underDiscussion": 24406.31,
+            "forecastAdHoc": 635507.57
+          },
+          {
+            "id": 255,
+            "name": "ACP Low Solids- Jorf",
+            "underDiscussion": 5081.97
+          }
+        ],
+        "id": 250,
+        "name": "Phosphoric Acid",
+        "loaded": 1859.66,
+        "nominated": 52372.15,
+        "scheduled": 3820.85,
+        "confirmed": 581318.51,
+        "underDiscussion": 29488.280000000002,
+        "forecastAdHoc": 635507.57
+      }
+    ],
+    "id": 2,
+    "name": "ACIDS",
+    "loaded": 1859.66,
+    "anchored": 214.0,
+    "nominated": 52372.15,
+    "scheduled": 4248.85,
+    "confirmed": 1084356.42,
+    "underDiscussion": 132849.75,
+    "forecastAdHoc": 5.299096264E7
+  },
+  {
+    "categories": [
+      {
+        "qualities": [
+          {
+            "id": 3139,
+            "name": "MCP",
+            "underDiscussion": 81000.0,
+            "forecastAdHoc": 500.0
+          }
+        ],
+        "id": 2437,
+        "name": "MCP",
+        "underDiscussion": 81000.0,
+        "forecastAdHoc": 500.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 2397,
+            "name": "DCP",
+            "underDiscussion": 500.0
+          }
+        ],
+        "id": 2377,
+        "name": "DCP",
+        "underDiscussion": 500.0
+      }
+    ],
+    "id": 2376,
+    "name": "FEEDS",
+    "underDiscussion": 81500.0,
+    "forecastAdHoc": 500.0
+  },
+  {
+    "categories": [
+      {
+        "qualities": [
+          {
+            "id": 209,
+            "name": "YCC-01",
+            "confirmed": 1333.33,
+            "forecastAdHoc": 800.0
+          }
+        ],
+        "id": 210,
+        "name": "Phosphate Youssoufia",
+        "confirmed": 1333.33,
+        "forecastAdHoc": 800.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 378,
+            "name": "BG10",
+            "underDiscussion": 10000.0
+          }
+        ],
+        "id": 379,
+        "name": "Phosphate Benguerir",
+        "underDiscussion": 10000.0
+      },
+      {
+        "qualities": [
+          {
+            "id": 3684,
+            "name": "K09-03",
+            "underDiscussion": 8597.96
+          },
+          {
+            "id": 3862,
+            "name": "K20-02",
+            "forecastAdHoc": 2600.0
+          },
+          {
+            "id": 188,
+            "name": "K10-02",
+            "nominated": 200.0,
+            "underDiscussion": 1000.0,
+            "forecastAdHoc": 1000.0
+          }
+        ],
+        "id": 190,
+        "name": "Phosphate Khouribga",
+        "nominated": 200.0,
+        "underDiscussion": 9597.96,
+        "forecastAdHoc": 3600.0
+      }
+    ],
+    "id": 189,
+    "name": "ROCK",
+    "nominated": 200.0,
+    "confirmed": 1333.33,
+    "underDiscussion": 19597.96,
+    "forecastAdHoc": 4400.0
+  }
+]
